@@ -1,0 +1,8 @@
+REST API -> json data
+
+get /user -> list of all user
+
+get /user/1 
+get /user/2 - particular object
+
+post /user
